@@ -13,6 +13,7 @@ Flowchart below to help you decide what’s the right strategy for you. The oran
 
 # Deployment Check List [Check](https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/)
 Runt the below command to review the sensitive settings
-```python
+
+```cmd
 python manage.py check --deploy
 ```
